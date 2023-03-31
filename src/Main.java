@@ -9,5 +9,11 @@ public class Main {
        x.cylinders="8";
        x.size="1323hk";
        x.weight="3434kg";
+
+
+       lightsFeature neon= new lightsFeature();
+       neon.color="red";
+       neon.size="15cm";
+       neon.intensity="345345lumin";
     }
 }
